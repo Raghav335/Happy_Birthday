@@ -1,6 +1,9 @@
 # Happy_Birthday
 Happy Birthday
 
+**Tech stack:** 
+
+
 **view preview:**
 [view](https://happybirthdaytrishka.verce.app)
 
