@@ -2,6 +2,7 @@
 Happy Birthday
 
 **Tech stack:** 
+HTML
 
 
 **view preview:**
