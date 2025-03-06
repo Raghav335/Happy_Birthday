@@ -14,3 +14,4 @@ Javascript
 
 **"upgraded version available:-**
 **customisation Instructions:**
+just change wishes and photos 
