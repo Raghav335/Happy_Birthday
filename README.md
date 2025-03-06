@@ -16,3 +16,4 @@ Javascript
 **customisation Instructions:**
 
 •just change wishes and photos 
+•I added comments for easy navigation 
