@@ -10,7 +10,7 @@ CSS
 Javascript 
 
 **view preview:**
-[view](https://happybirthdaytrishka.verce.app)
+[view](https://happybirthdayKashish.verce.app)
 
 **"upgraded version available:-**
 **customisation Instructions:**
