@@ -10,7 +10,7 @@ CSS
 Javascript 
 
 **view preview:**
-[view](https://happybirthdayKashish.verce.app)
+[view](https://vercel.com/raghav-gupta-jis-projects/happy-birthday)
 
 **"upgraded version available:-**
 **customisation Instructions:**
